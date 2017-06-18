@@ -9,4 +9,6 @@ https://github.com/tualatrix/ubuntu-tweak
 http://www.binarytides.com/gorgeous-looking-fonts-ubuntu-linux/
 5. Download and install liquidprompt
 https://github.com/nojhan/liquidprompt
-6. Download and install other software from command line
+6. Set mouse speed
+Use xset q | grep -A 1 Pointer to check current speed
+7. Download and install vlc, neovim, okular, tor, git
